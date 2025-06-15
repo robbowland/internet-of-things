@@ -6,8 +6,8 @@
 
 <h4 align="center"><a href="https://www.robbow.land" target="_blank">My</a> assignment code from the <i>COM3505: Internet of Things</i> module (from c. 2021), redacted for public display.</h4>
 <p align="center"><i>Taught by: <strong>Prof. Hamish Cunningham</strong> & <strong>Dr. Valentin Radu</strong></i></p>
-<hr>
 
+<br>
 <br>
 <hr>
 
@@ -19,8 +19,7 @@
 > *Original and complete repositories are stored privately in their original location on [GitLab](https://gitlab.com/university-assignments/com3505-internet-of-things).*
 
 #### ⚠️ Academic Integrity Notice
->
-> *This repository contains code for assignments completed during my studies at the [University of Sheffield](https://www.sheffield.ac.uk/).*
+> *This repository contains code for assignments completed during my studies at the [University of Sheffield](https://www.sheffield.ac.uk/).*<br>
 > *It is shared for educational reference & archival purposes only.*
 >
-> *Any unauthorized use, including submission for academic credit, either as-is or in a modified form, is strictly prohibited.*
+> *Any unauthorized use, including submission for academic credit, either as-is or in a modified form, is not endorsed.*
